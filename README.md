@@ -23,7 +23,10 @@ Sistema web desenvolvido para controle de acesso em condomínios, permitindo o g
 - HTML, CSS, JavaScript (front-end)
 
 ## 📸 Demonstração
-(adiciona prints das telas aqui)
+<img width="871" height="914" alt="Screenshot 2026-04-27 at 03-38-44 Portaria 1 0 - Login" src="https://github.com/user-attachments/assets/701bc5bb-fa8f-47c6-81ba-2f0f24536b66" />
+<img width="871" height="914" alt="Screenshot 2026-04-27 at 03-38-17 Portaria 1 0" src="https://github.com/user-attachments/assets/de387d05-d37b-4422-8e54-6c09cd3e44db" />
+<img width="871" height="914" alt="Screenshot 2026-04-27 at 03-37-44 Cadastro - Morador" src="https://github.com/user-attachments/assets/47288659-5ce8-4dfb-9ac6-df7e08b387f1" />
+
 
 ## 📚 Aprendizados
 - Estruturação de sistema CRUD completo
