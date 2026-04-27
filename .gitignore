@@ -1,0 +1,10 @@
+*.log
+.env
+.vs/
+.git/
+
+# Arquivos enviados pelo sistema
+uploads/*
+!uploads/.gitkeep
+app/uploads/*
+!app/uploads/.gitkeep
